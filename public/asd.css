@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Raleway, sans-serif;
+}
+
+body{
+    background: black;
+    color: white;
+}
+
+p{
+    font-size: 50px;
+    justify-content: center;
+    text-align: center;
+}
+
+form {
+    font-size: 15px;
+    text-transform: uppercase;
+    justify-content: center;
+    font-weight: 400;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 25px;
+    margin-left: 300px;
+    margin-right: 300px;
+    align-self: center;
+    text-align: center;
+    background-color: red;
+    border: 3px solid white;
+    border-radius: 20px;
+    font-style: bold;
+    outline: none;
+    user-select: none;
+}
